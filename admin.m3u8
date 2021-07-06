@@ -1,1 +1,4 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="AMBA", MAGIC KIDS https://live.admefy.com/live/clean_peach_ef224.m3u8
+#EXTM3U @vk496 https://github.com/vk496/IPTVspain
+#EXTM3U url-tvg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml"
+#EXTINF:-1 group-title="Nacional" tvg-id="LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",La 1
+https://live.admefy.com/live/clean_peach_ef224.m3u8
