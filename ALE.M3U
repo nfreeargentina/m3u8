@@ -1,3 +1,4 @@
 #EXTM3U @vk496 https://github.com/vk496/IPTVspain
 #EXTM3U url-tvg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml"
-#EXTINF:-1 group-title="Nacional" tvg-id="LA 1" tvg-logo="http://ultimateiptv.me:8080/amira/amira123/10330
+#EXTINF:-1 group-title="Nacional" tvg-id="LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/281px-Logo_TVE-1.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",La 1
+http://ultimateiptv.me:8080/amira/amira123/10330
